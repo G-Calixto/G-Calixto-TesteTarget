@@ -7,5 +7,8 @@
 
 
 <!-- 
-A linguagem escolhida para esse problema foi Java17
+A linguagem escolhida para esse problema foi Java22
+O programa pede uma string pro usuario e depois salva o tamanho dessa string em uma variavel
+Em seguida é executado um loop for que começa com o tamanho dessa string -1 para ignorar o /0
+O loop for acessa cada char nessa string e imprime ele sem quebra de linha 
  -->
